@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yuvarani-ballari21
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Java Full Stack Development
-- 💞️ I’m looking to collaborate on .... Software Developer roles as i am a coding enthusiastic
+- 👋 Hi, I’m Yuvarani Ballari
+- 👀 I’m a Coding Enthusiastic
+- 🌱 My Technical skills include Java, Python, Hibernate, Spring Boot, Django, Machine Learning, HTML, CSS, Javascript, React JS, MySQL, SQL
+- 💞️ I’m actively searching for a job roles .... Software Developer roles or Associate Software Engineering role or Any IT Freshers role based on Java or Python or MySQL
 
 
 <!---
